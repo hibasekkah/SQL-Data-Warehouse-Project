@@ -20,6 +20,8 @@ Usage Notes:
 -- ====================================================================
 -- Checking 'silver.crm_cust_info'
 -- ====================================================================
+Use DataWarehouse
+GO;
 -- Check for NULLs or Duplicates in Primary Key
 -- Expectation: No Results
 SELECT 
