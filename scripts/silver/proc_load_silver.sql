@@ -253,3 +253,4 @@ BEGIN
 	END CATCH
 END
 
+EXEC silver.load_silver;
